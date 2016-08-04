@@ -1,0 +1,29 @@
+_repo: The-Old-Merchant-Marine--A-Chronicle-of-American-Ships-and-Sailors_3099
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paine, Ralph Delahaye
+    alias: Paine, Ralph D. (Ralph Delahaye)
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '1113'
+    url: http://www.gutenberg.org/2009/agents/1113
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
+description: Chronicles of America series; v. 36
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Merchant marine -- United States -- History'
+- !lcc 'HE'
+- GITenberg
+title: 'The Old Merchant Marine: A Chronicle of American Ships and Sailors'
+url: http://www.gutenberg.org/ebooks/3099
